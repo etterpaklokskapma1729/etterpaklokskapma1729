@@ -16,12 +16,10 @@ Welcome to my GitHub profile!
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/mayurathavale1729" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;">
 </a>
 <a href="mailto:mayat.dev1569@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="40" height="40">
-</a
-
-✨ I'm always open to collaboration on exciting projects! Feel free to reach out!
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="40" height="40" style="margin-right: 10px;">
+</a>
 
 ---
