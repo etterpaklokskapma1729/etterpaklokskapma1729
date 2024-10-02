@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! I'm Mayur Athavale 👋
 
-<!--
-**etterpaklokskapma1729/etterpaklokskapma1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 I'm a passionate **web developer** with a knack for **self-learning** and **exploring** new technologies. I love turning ideas into reality through code and constantly seek to improve my skills and knowledge.
+
+## Skills
+
+💻 I enjoy building:
+- Responsive and user-friendly web applications
+- Diving into new frameworks
+- Staying updated with industry trends
+
+## Let's Connect
+
+✨ I'm always open to collaboration on exciting projects! Feel free to reach out!
+
+---
+
+Thank you for visiting my profile!
