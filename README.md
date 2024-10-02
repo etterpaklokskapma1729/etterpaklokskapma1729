@@ -13,10 +13,11 @@ Welcome to my GitHub profile!
 - Diving into new frameworks
 - Staying updated with industry trends
 
-## Let's Connect
+## Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurathavale1729)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayat.dev1569@gmail.com)
 
 ✨ I'm always open to collaboration on exciting projects! Feel free to reach out!
 
 ---
-
-Thank you for visiting my profile!
